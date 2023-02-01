@@ -1,0 +1,52 @@
+#go{
+    color:rgb(223, 68, 68);
+    cursor: pointer;
+    text-align: right;
+    font-weight: bold;
+    padding:0;
+    margin-top:40%;
+    margin-left:20%;
+    font-size:20px;
+    margin: 10%;
+    
+    
+}
+#goes{
+    color: rgb(223, 68, 68);
+    cursor: pointer;
+    text-align: right;
+    font-weight: bold;
+    padding:0;
+    margin-top:40%;
+    margin-left:30%;
+    font-size:20px;
+    margin: 10%;
+    
+    
+}
+.one{
+    color: rgb(231, 31, 31);
+}
+
+.bgimg{
+    background-image: url("https://images.pexels.com/photos/853151/pexels-photo-853151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    width:100vw;
+    height: 100vh;
+    background-size: cover;
+    position: fixed;
+}
+
+    
+    
+    
+    
+
+.para{
+    text-align: center;
+    margin-top:15%;
+    margin-left:18%;
+    margin-right: 10%;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+}
